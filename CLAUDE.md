@@ -18,7 +18,7 @@
 ### Underlying Technologies
 
 - **Strict TypeScript** — All code uses TypeScript in strict mode with no `any` types.
-- **Bun** — Runtime and package manager.
+- **Bun** — Runtime, package manager, and test runner.
 - **Biome** — Linter and formatter.
 
 ### Frontend
