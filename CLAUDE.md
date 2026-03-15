@@ -18,7 +18,7 @@
 ### Underlying Technologies
 
 - **Strict TypeScript** — All code uses TypeScript in strict mode with no `any` types.
-- **Bun** — Runtime, package manager, and test runner.
+- **Bun** — Package manager and test runner.
 - **Biome** — Linter and formatter.
 
 ### Frontend
@@ -30,7 +30,7 @@
 
 ### Backend
 
-- **Node.js** — Server runtime.
+- **Bun** — Backend runtime.
 - **GraphQL** — API query layer.
 - **Drizzle** — Type-safe ORM.
 - **Supabase** — Managed Postgres and auth.
